@@ -105,11 +105,11 @@ Matplotlib
 
 Seaborn
 
+UMAP
+
+t-SNE
+
 👨‍🔬 Autor
 
 Jose F. Drube
 Biólogo | Data Science | Machine Learning
-
-UMAP
-
-t-SNE
